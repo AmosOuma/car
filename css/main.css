@@ -1,0 +1,99 @@
+*{
+    margin: o;
+    padding: o;
+}
+
+body{
+    background-image: url(../assets/Image\ 34.jpg);
+    background-size: cover;
+    background-color: rgb(85, 85, 85);
+    background-blend-mode: multiply;
+    overflow: hidden;
+
+}
+
+.image{
+    position: absolute;
+    top: 200px;
+    left: 180px;
+}
+
+.card{
+    position: relative;
+    background-color: rgba(14, 1, 1, 0.295);
+    width: 450px;
+    height: 180px;
+    /* color: white; */
+    border-radius: 5%;
+    opacity: 50%;
+    left: 550px;
+    top: 200px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.png{
+    position: absolute;
+    left: 150px;
+    top: 70px;
+}
+
+.lorem{
+    position: absolute;
+    display: grid;
+}
+
+.twit{
+    position: absolute;
+    left: 50px;
+    top: 250px;
+}
+
+.face{
+    position: absolute;
+    left: 50px;
+    top: 350px;
+    }
+
+.in{
+    position: absolute;
+    left: 50px;
+    top: 450px;
+    
+}
+
+.sub li{
+    position: relative;
+    color: white;
+    list-style: none;
+    top: 250px;
+    left: 200px;
+    font-family: bliss;
+  
+}
+
+.cart{
+    position: absolute;
+    right: 70px;
+    bottom: 50px;
+}
+
+.add{
+    position: absolute;
+    color: white;
+    stroke: white;
+    border: 3px;
+    right: 150px;
+    bottom: 50px;
+}
+
+.line{
+    position: absolute;
+    background-color: white;
+    height: 100px;
+    width: 1px;
+    left: 190px;
+    bottom: 100px;
+}
+
+
